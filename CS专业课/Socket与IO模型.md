@@ -4,7 +4,7 @@
 
 ​	在网络中，客户端和服务端交互时，常常是两个计算机间应用进程的数据交互，而数据发送需要从应用层向下层层包装，之后通过物理设备发送到另一端后再层层解封装，直到数据传送到接收端的应用层，之后被特定的进程使用。而应用层是由计算机内的应用进程控制的，应用层以下则是由OS控制，所以数据传送时会涉及到**系统调用**。此时就需要一个机制来负责应用层和传输层的交互，这就是Socket的由来。Socket是在应用层和传输层之间的一个抽象层，Socket本质是编程接口(API)，它把TCP/IP层复杂的操作抽象为几个简单的接口供应用层调用以**实现进程在网络中通信**。
 
-<img src="/Users/yinwenbo/Documents/github/Learn-note/img/image-20200801084338172.png" alt="image-20200801084338172" style="zoom:33%;" />
+<img src="https://github.com/ywb-create/Learn-note/blob/master/img/image-20200801084338172.png" alt="image-20200801084338172" style="zoom:33%;" />
 
 ### 实现
 
