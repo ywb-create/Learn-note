@@ -16,7 +16,7 @@
 
 ### IO模型
 
-<img src="/Users/yinwenbo/Documents/github/Learn-note/img/image-20200817171939717.png" alt="image-20200817171939717" style="zoom:33%;" />
+<img src="https://github.com/ywb-create/Learn-note/blob/master/img/image-20200817171939717.png" alt="image-20200817171939717" style="zoom:33%;" />
 
 #### 1.阻塞式I/O
 
