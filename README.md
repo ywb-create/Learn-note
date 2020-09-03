@@ -13,7 +13,7 @@
 
 **[数据库原理与MySQL](https://github.com/ywb-create/Learn-note/blob/master/CS专业课/数据库原理与MySql.md)**
 
-## ava
+## Java
 
 [JavaSe]
 
