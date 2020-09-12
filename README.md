@@ -23,11 +23,7 @@
 
 ## 框架
 
-[Spring]
-
-[SpringMVC]
-
-[Mybatis]
+**[SSM](https://github.com/ywb-create/Learn-note/blob/master/框架/SSM.md)**
 
 **[SpringBoot](https://github.com/ywb-create/Learn-note/blob/master/框架/SpringBoot.md)**
 
