@@ -10,7 +10,7 @@
 
 ## Java
 
-[JavaSe]
+**[JavaSE](https://github.com/ywb-create/Learn-note/blob/master/Java/JavaSE.md)**
 
 **[Java并发编程](https://github.com/ywb-create/Learn-note/blob/master/Java/Java并发编程.md)**
 
