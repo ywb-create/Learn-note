@@ -2,7 +2,7 @@
 
 **[计算机网络原理](https://github.com/ywb-create/Learn-note/blob/master/CS专业课/计算机网络原理.md)**
 
-**[操作系统与linux](https://github.com/ywb-create/Learn-note/blob/master/CS专业课/操作系统.md)**
+**[操作系统与Linux](https://github.com/ywb-create/Learn-note/blob/master/CS专业课/操作系统.md)**
 
 **[Socket与I/O模型](https://github.com/ywb-create/Learn-note/blob/master/CS专业课/Socket与IO模型.md)**
 
